@@ -59,6 +59,9 @@
 <img src="http://img.shields.io/badge/-Asana-F86579?style=flat&logo=asana&logoColor=FFFFFF">
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 </br></br>
