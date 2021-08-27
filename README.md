@@ -16,9 +16,10 @@
 
 ## About Me:
 #### Always curious to learn cutting edge technology. A bit enthusiast towards web development. Competitive coding and gaming boost my adrenaline. <br><br>
-> :telescope: I’m currently working on Full-Stack Web Development and in further on Open Source Contributions<br>
-> :seedling: I’m currently working on a big productivity app for myself<br>
-> :mag: I’m looking to collaborate on Front-End Web Dev Projects<br>
+> 🔭 I’m currently working on Full-Stack Web Development and in the near future on Open Source Contributions<br>
+> 🌱 I am currently working on a considerable productivity application for myself<br>
+> 🔍 I’m looking to collaborate on Front-End Web Dev and Mobile Projects<br>
+> 🔖I'm about to start learning data science and AI<br>
 <br>
 
 ### Tech & Tools Preference 🎓
@@ -51,7 +52,7 @@
 <img src="http://img.shields.io/badge/-Angular-DD2F31?style=flat&logo=angular&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-PostgreSQL-DD2F31?style=flat&logo=postgresql&logoColor=FFFFFF">
 
-### Others tools :bulb:	
+### Others tools :bulb:
 
 <img src="http://img.shields.io/badge/-Sonarcloud-orange?style=flat&logo=sonarcloud&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Figma-38B6F6?style=flat&logo=figma&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Slack-481449?style=flat&logo=slack&logoColor=FFFFFF">
