@@ -15,7 +15,7 @@
 ### Hi there 👋 I'm Lionel Okpeicha
 
 ## About Me:
-#### Always curious to learn cutting edge technology. A bit enthusiast towards web development. Competitive coding and motor sports boost my adrenaline. <br>
+#### Always curious to learn cutting edge technology. A bit enthusiast towards web development. Competitive coding and gaming boost my adrenaline. <br>
 > ["web dev", "tech", "app dev", "music", "eddie vedder", "remote"],
 <br>
 
