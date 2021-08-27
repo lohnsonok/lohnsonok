@@ -2,6 +2,11 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
+<p><em>Frontend and mobile developer at <a href="http://www.rintio.com">Rintio</a> 
+</em></p>
+
+![](https://visitor-badge.glitch.me/badge?page_id=lohnsonok.lohnsonok)
+![Waka Readme](https://github.com/lohnsonok/lohnsonok/workflows/Waka%20Readme/badge.svg)
 
 ### Hi there 👋 I'm Lionel Okpeicha
 
