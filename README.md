@@ -5,15 +5,19 @@
 <p><em>Frontend and mobile developer at <a href="http://www.rintio.com">Rintio</a> 
 </em></p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=lohnsonok.lohnsonok)
-![Waka Readme](https://github.com/lohnsonok/lohnsonok/workflows/Waka%20Readme/badge.svg)
+<a href="https://github.com/lohnsonok">
+  <img src="https://komarev.com/ghpvc/?username=lohnsonok" alt="lohnsonok">
+</a>
+<a href="https://github.com/lohnsonok">
+   <img src="https://github.com/lohnsonok/lohnsonok/workflows/Waka%20Readme/badge.svg" alt="lohnsonok">
+</a>
 
 ### Hi there 👋 I'm Lionel Okpeicha
 
 ## About Me:
-#### Always curious to learn cutting edge technology. A bit enthusiast towards web development. Competitive coding and motor sports boost my adrenaline. <br> <br>
-
-<img src="https://komarev.com/ghpvc/?username=lohnsonok" alt="lohnsonok" />
+#### Always curious to learn cutting edge technology. A bit enthusiast towards web development. Competitive coding and motor sports boost my adrenaline. <br>
+> ["web dev", "tech", "app dev", "music", "eddie vedder", "remote"],
+<br>
 
 <!--
 **lohnsonok/lohnsonok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
