@@ -10,6 +10,9 @@
 
 ### Hi there 👋 I'm Lionel Okpeicha
 
+## About Me:
+#### Always curious to learn cutting edge technology. A bit enthusiast towards web development. Competitive coding and motor sports boost my adrenaline. <br> <br>
+
 <img src="https://komarev.com/ghpvc/?username=lohnsonok" alt="lohnsonok" />
 
 <!--
@@ -43,3 +46,6 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/11995761/lohnson-okpeicha?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Lohnson%20Okpeicha-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:lohnsonok@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lohnsonok@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
+
+---
+⭐️ From [lohnsonok](https://github.com/lohnsonok) inspired by [reeveng](https://github.com/reeveng) and  [FelixRilling](https://github.com/)
