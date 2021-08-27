@@ -12,11 +12,13 @@
    <img src="https://github.com/lohnsonok/lohnsonok/workflows/Waka%20Readme/badge.svg" alt="lohnsonok">
 </a>
 
-### Hi there 👋 I'm Lionel Okpeicha
+### Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Lionel Okpeicha
 
 ## About Me:
-#### Always curious to learn cutting edge technology. A bit enthusiast towards web development. Competitive coding and gaming boost my adrenaline. <br>
-> ["web dev", "tech", "app dev", "music", "upwork", "remote"],
+#### Always curious to learn cutting edge technology. A bit enthusiast towards web development. Competitive coding and gaming boost my adrenaline. <br><br>
+> :telescope: I’m currently working on Full-Stack Web Development and in further on Open Source Contributions<br>
+> :seedling: I’m currently working on a big productivity app for myself<br>
+> :mag: I’m looking to collaborate on Front-End Web Dev Projects<br>
 <br>
 
 ### Tech & Tools Preference 🎓
@@ -47,6 +49,7 @@
 <img src="http://img.shields.io/badge/-Codefactor-787878?style=flat&logo=codefactor&logoColor=red">
 <img src="http://img.shields.io/badge/-Vuejs-3FB37F?style=flat&logo=vue.js&logoColor=white">
 <img src="http://img.shields.io/badge/-Angular-DD2F31?style=flat&logo=angular&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-PostgreSQL-DD2F31?style=flat&logo=postgresql&logoColor=FFFFFF">
 
 ### Others tools :bulb:	
 
