@@ -61,6 +61,7 @@
 <img src="http://img.shields.io/badge/-Husky-787878?style=flat">
 <img src="http://img.shields.io/badge/-Jira-2B80F7?style=flat&logo=jira&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Asana-F86579?style=flat&logo=asana&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Commitizen-white?style=flat">
 <br><br>
 
 <!--START_SECTION:waka-->
