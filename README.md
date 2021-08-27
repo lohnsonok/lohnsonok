@@ -91,4 +91,4 @@ No Activity tracked this Week
 </p>
 
 ---
-⭐️ From [lohnsonok](https://github.com/lohnsonok) inspired by [reeveng](https://github.com/reeveng) and  [FelixRilling](https://github.com/)
+⭐️ Inspired by [reeveng](https://github.com/reeveng)
