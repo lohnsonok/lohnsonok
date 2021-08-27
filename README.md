@@ -16,7 +16,7 @@
 
 ## About Me:
 #### Always curious to learn cutting edge technology. A bit enthusiast towards web development. Competitive coding and gaming boost my adrenaline. <br>
-> ["web dev", "tech", "app dev", "music", "eddie vedder", "remote"],
+> ["web dev", "tech", "app dev", "music", "upwork", "remote"],
 <br>
 
 ### Tech & Tools Preference 🎓
