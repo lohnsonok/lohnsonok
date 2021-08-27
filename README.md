@@ -48,7 +48,7 @@
 <img src="http://img.shields.io/badge/-Vuejs-3FB37F?style=flat&logo=vue.js&logoColor=white">
 <img src="http://img.shields.io/badge/-Angular-DD2F31?style=flat&logo=angular&logoColor=FFFFFF">
 
-### Others toos :bulb:	
+### Others tools :bulb:	
 
 <img src="http://img.shields.io/badge/-Sonarcloud-orange?style=flat&logo=sonarcloud&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Figma-38B6F6?style=flat&logo=figma&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Slack-481449?style=flat&logo=slack&logoColor=FFFFFF">
