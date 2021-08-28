@@ -19,7 +19,7 @@
 > 🔭 I’m currently working on Full-Stack Web Development and in the near future on Open Source Contributions<br>
 > 🌱 I am currently working on a considerable productivity application for myself<br>
 > 🔍 I’m looking to collaborate on Front-End Web Dev and Mobile Projects<br>
-> 🔖I'm about to start learning data science and AI<br>
+> 🔖 I'm about to start learning data science and AI<br>
 <br>
 
 ### Tech & Tools Preference 🎓
