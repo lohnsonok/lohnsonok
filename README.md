@@ -5,10 +5,10 @@
 <p><em>Frontend developer at <a href="http://www.rintio.com">Rintio</a> 
 </em></p>
 
-<a style="text-decoration: none;" href="https://github.com/lohnsonok">
+<a href="https://github.com/lohnsonok">
   <img src="https://komarev.com/ghpvc/?username=lohnsonok" alt="lohnsonok">
 </a>
-<a style="text-decoration: none;" href="https://github.com/lohnsonok">
+<a href="https://github.com/lohnsonok">
    <img src="https://github.com/lohnsonok/lohnsonok/workflows/Waka%20Readme/badge.svg" alt="lohnsonok">
 </a>
 
@@ -23,7 +23,7 @@
 <br>
 
 ### Tech & Tools Preference 🎓
-<a style="text-decoration: none;" href="https://github.com/lohnsonok">
+
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -51,10 +51,9 @@
 <img src="http://img.shields.io/badge/-Vuejs-3FB37F?style=flat&logo=vue.js&logoColor=white">
 <img src="http://img.shields.io/badge/-Angular-DD2F31?style=flat&logo=angular&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=FFFFFF">
-</a>
 
 ### Others tools :bulb:
-<a style="text-decoration: none;" href="https://github.com/lohnsonok">
+
 <img src="http://img.shields.io/badge/-Sonarcloud-orange?style=flat&logo=sonarcloud&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Figma-38B6F6?style=flat&logo=figma&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Slack-481449?style=flat&logo=slack&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=FFFFFF">
@@ -63,7 +62,6 @@
 <img src="http://img.shields.io/badge/-Jira-2B80F7?style=flat&logo=jira&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Asana-F86579?style=flat&logo=asana&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Commitizen-white?style=flat">
- </a>
 <br><br>
 
 <!--START_SECTION:waka-->
@@ -166,9 +164,9 @@ JavaScript               5 repos             ███░░░░░░░░�
 
 <p align="center">
 <!-- <a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a> -->
-<a style="text-decoration: none;" href="https://www.linkedin.com/in/lionel-okpeicha-b98485191/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@lohnsonok-blue?style=flat&logo=linkedin"></a>
-<a style="text-decoration: none;" href="https://stackoverflow.com/users/11995761/lohnson-okpeicha?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Lohnson%20Okpeicha-blue?style=flat&logo=stackoverflow"></a>
-<a style="text-decoration: none;" href="mailto:lohnsonok@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lohnsonok@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/lionel-okpeicha-b98485191/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@lohnsonok-blue?style=flat&logo=linkedin"></a>
+<a href="https://stackoverflow.com/users/11995761/lohnson-okpeicha?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Lohnson%20Okpeicha-blue?style=flat&logo=stackoverflow"></a>
+<a href="mailto:lohnsonok@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lohnsonok@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 ---
