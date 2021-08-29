@@ -144,6 +144,3 @@ JavaScript               5 repos             ███░░░░░░░░�
 <a href="https://stackoverflow.com/users/11995761/lohnson-okpeicha?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Lohnson%20Okpeicha-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:lohnsonok@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lohnsonok@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
-
----
-⭐️ Inspired by [reeveng](https://github.com/reeveng)
