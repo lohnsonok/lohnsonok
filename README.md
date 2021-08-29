@@ -5,10 +5,10 @@
 <p><em>Frontend developer at <a href="http://www.rintio.com">Rintio</a> 
 </em></p>
 
-<a href="https://github.com/lohnsonok">
+<a style="text-decoration: none;" href="https://github.com/lohnsonok">
   <img src="https://komarev.com/ghpvc/?username=lohnsonok" alt="lohnsonok">
 </a>
-<a href="https://github.com/lohnsonok">
+<a style="text-decoration: none;" href="https://github.com/lohnsonok">
    <img src="https://github.com/lohnsonok/lohnsonok/workflows/Waka%20Readme/badge.svg" alt="lohnsonok">
 </a>
 
@@ -23,7 +23,7 @@
 <br>
 
 ### Tech & Tools Preference 🎓
-
+<a style="text-decoration: none;" href="https://github.com/lohnsonok">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -51,9 +51,10 @@
 <img src="http://img.shields.io/badge/-Vuejs-3FB37F?style=flat&logo=vue.js&logoColor=white">
 <img src="http://img.shields.io/badge/-Angular-DD2F31?style=flat&logo=angular&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=FFFFFF">
+</a>
 
 ### Others tools :bulb:
-
+<a style="text-decoration: none;" href="https://github.com/lohnsonok">
 <img src="http://img.shields.io/badge/-Sonarcloud-orange?style=flat&logo=sonarcloud&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Figma-38B6F6?style=flat&logo=figma&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Slack-481449?style=flat&logo=slack&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=FFFFFF">
@@ -62,28 +63,44 @@
 <img src="http://img.shields.io/badge/-Jira-2B80F7?style=flat&logo=jira&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Asana-F86579?style=flat&logo=asana&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Commitizen-white?style=flat">
+ </a>
 <br><br>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-130-blue)
+<br><br>
+
+**🐱 My Github Data** 
+
+> 🏆 1,830 Contributions in the Year 2021
+ > 
+> 📦 449.4 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 65 Public Repositories 
+ > 
+> 🔑 19 Private Repositories  
+ > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    218 commits    █████░░░░░░░░░░░░░░░░░░░░   20.74% 
-🌆 Daytime    396 commits    █████████░░░░░░░░░░░░░░░░   37.68% 
-🌃 Evening    347 commits    ████████░░░░░░░░░░░░░░░░░   33.02% 
-🌙 Night      90 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.56%
+🌞 Morning    218 commits    █████░░░░░░░░░░░░░░░░░░░░   20.78% 
+🌆 Daytime    396 commits    █████████░░░░░░░░░░░░░░░░   37.75% 
+🌃 Evening    347 commits    ████████░░░░░░░░░░░░░░░░░   33.08% 
+🌙 Night      88 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.39%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       157 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.94% 
-Tuesday      136 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
-Wednesday    148 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.08% 
-Thursday     146 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
-Friday       185 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.6% 
-Saturday     151 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
-Sunday       128 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.18%
+Monday       157 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.97% 
+Tuesday      136 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
+Wednesday    148 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.11% 
+Thursday     146 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
+Friday       185 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.64% 
+Saturday     151 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.39% 
+Sunday       126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.01%
 
 ```
 
@@ -94,17 +111,22 @@ Sunday       128 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Porto-Novo
 
 💬 Programming Languages: 
-TypeScript               5 hrs 24 mins       ███████████░░░░░░░░░░░░░░   45.34% 
-HTML                     2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.82% 
-JavaScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.89% 
-Properties               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.94% 
-JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.1%
+TypeScript               1 hr                █████████░░░░░░░░░░░░░░░░   38.1% 
+JSON                     34 mins             █████░░░░░░░░░░░░░░░░░░░░   21.61% 
+Bash                     29 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.81% 
+Vue.js                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.86% 
+JavaScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.56%
 
 🔥 Editors: 
-VS Code                  11 hrs 56 mins      █████████████████████████   100.0%
+VS Code                  2 hrs 38 mins       █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+implet-api               2 hrs 21 mins       ██████████████████████░░░   89.09% 
+rainy-paprika            11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.36% 
+asi                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.55%
 
 💻 Operating System: 
-Linux                    11 hrs 56 mins      █████████████████████████   100.0%
+Linux                    2 hrs 38 mins       █████████████████████████   100.0%
 
 ```
 
@@ -119,6 +141,10 @@ JavaScript               5 repos             ███░░░░░░░░�
 
 ```
 
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/lohnsonok/lohnsonok/main/charts/bar_graph.png) 
 
 
  Last Updated on 28/08/2021
@@ -140,9 +166,9 @@ JavaScript               5 repos             ███░░░░░░░░�
 
 <p align="center">
 <!-- <a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/lionel-okpeicha-b98485191/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@lohnsonok-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/11995761/lohnson-okpeicha?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Lohnson%20Okpeicha-blue?style=flat&logo=stackoverflow"></a>
-<a href="mailto:lohnsonok@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lohnsonok@gmail.com-blue?style=flat&logo=gmail"></a>
+<a style="text-decoration: none;" href="https://www.linkedin.com/in/lionel-okpeicha-b98485191/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@lohnsonok-blue?style=flat&logo=linkedin"></a>
+<a style="text-decoration: none;" href="https://stackoverflow.com/users/11995761/lohnson-okpeicha?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Lohnson%20Okpeicha-blue?style=flat&logo=stackoverflow"></a>
+<a style="text-decoration: none;" href="mailto:lohnsonok@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lohnsonok@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 ---
