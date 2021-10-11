@@ -51,6 +51,8 @@
 <img src="http://img.shields.io/badge/-Vuejs-3FB37F?style=flat&logo=vue.js&logoColor=white">
 <img src="http://img.shields.io/badge/-Angular-DD2F31?style=flat&logo=angular&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=FFFFFF">
 
 ### Others tools :bulb:
 
