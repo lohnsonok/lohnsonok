@@ -2,7 +2,6 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
-<p><em>Frontend developer at <a href="http://www.rintio.com">Rintio</a> 
 </em></p>
 
 <a href="https://github.com/lohnsonok">
@@ -134,7 +133,6 @@ Python                   3 repos             █░░░░░░░░░░�
 
 <p align="center">
 <!-- <a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/lionel-okpeicha-b98485191/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@lohnsonok-blue?style=flat&logo=linkedin"></a>
 <a href="https://stackoverflow.com/users/11995761/lohnson-okpeicha?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Lohnson%20Okpeicha-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:lohnsonok@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lohnsonok@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
