@@ -65,6 +65,8 @@
 <br><br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C469%20hrs-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -112,7 +114,7 @@ Twig                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2025 19:03:22 UTC
+ Last Updated on 04/06/2025 19:05:10 UTC
 <!--END_SECTION:waka-->
 
 </br></br>
