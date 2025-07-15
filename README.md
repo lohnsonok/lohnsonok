@@ -65,6 +65,8 @@
 <br><br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C469%20hrs-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -112,7 +114,7 @@ MQL5                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2025 19:09:25 UTC
+ Last Updated on 15/07/2025 19:10:10 UTC
 <!--END_SECTION:waka-->
 
 </br></br>
